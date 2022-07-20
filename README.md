@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @JosephSchreiner719 (Joseph A Schreiner Jr.)
-- 👀 I’m interested in Cybersecurity, Programming, and Networking
-- 🌱 I’m currently learning CompTIA A+, Net+, and Sec+, Java, Python
-- 💞️ I’m looking to collaborate on projects that will benefit the world. However I can help, I will!
+- 👀 I’m interested in Cybersecurity, Programming, Web Development, and Networking
+- 🌱 I’m currently learning CompTIA A+, Net+, and Sec+, Java, Python, JavaScript, React
 - 📫 How to reach me. You can find me on LinkedIn at https://www.linkedin.com/in/joseph-schreiner-jr/
 
 <!---
